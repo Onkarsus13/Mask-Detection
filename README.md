@@ -3,6 +3,6 @@ This project is helpful in mask detection on faces on Live camera/video streamin
 Mask Dataset are prepared from different internet source.
 
 Installation:
-Tensorflow, Keras and opencv
+Tensorflow, Keras and opencv,
 Convert deploy.protxt to deploy.txt
 
