@@ -4,3 +4,5 @@ Mask Dataset are prepared from different internet source.
 
 Installation:
 Tensorflow, Keras and opencv
+Convert deploy.protxt to deploy.txt
+
